@@ -28,7 +28,7 @@ body {
 .greenbar {
     width: 100%;
     background-color: #39ff14;
-    position: absolute;
+    position: fixed;
     bottom: 30px;
     height: 10px;
 }
